@@ -1,0 +1,17 @@
+{
+   "format_version" : 1,
+   "header" : {
+      "description" : "Unikcraft Pack",
+      "name" : "Unikcraft",
+      "uuid" : "a12345d4-9e27-35e2-bbdc-1e2c2fd28cd4",
+      "version" : [ 0, 0, 1 ]
+   },
+   "modules" : [
+      {
+         "description" : "Unikcraft TexturePack",
+         "type" : "resources",
+         "uuid" : "cb302c54-eb74-e205-2bbe-6c8fa2b88f7d",
+         "version" : [ 0, 0, 1 ]
+      }
+   ]
+}
